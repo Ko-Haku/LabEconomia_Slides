@@ -1,0 +1,15 @@
+﻿{
+  "studentId": "student002",
+  "version": "1.0",
+  "slides": [
+    {
+      "name": "slide_01",
+      "url": "https://Ko-Haku.github.io/LabEconomia_Slides/student002/slide_01.png"
+    },
+    {
+      "name": "slide_02",
+      "url": "https://Ko-Haku.github.io/LabEconomia_Slides/student002/slide_02.png"
+    }
+  ]
+}
+

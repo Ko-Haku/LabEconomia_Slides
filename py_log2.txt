@@ -1,0 +1,13 @@
+[OK] D:\Unity\LabEconomia\LabEconomia_Slides_temp\docs\manifest_student001.json — 5 slide, versione 1.3
+     - slide_01  ->  https://ko-haku.github.io/LabEconomia_Slides/student001/slide_01.png
+     - slide_02  ->  https://ko-haku.github.io/LabEconomia_Slides/student001/slide_02.png
+     - slide_03  ->  https://ko-haku.github.io/LabEconomia_Slides/student001/slide_03.png
+     - slide_04  ->  https://ko-haku.github.io/LabEconomia_Slides/student001/slide_04.png
+     - slide_05  ->  https://ko-haku.github.io/LabEconomia_Slides/student001/slide_05.png
+[WARN] Nessuna immagine in D:\Unity\LabEconomia\LabEconomia_Slides_temp\docs\student002
+[OK] D:\Unity\LabEconomia\LabEconomia_Slides_temp\docs\manifest_student002.json — 0 slide, versione 1.1
+
+Fatto! Ora esegui:
+  git add -A
+  git commit -m "Update manifests"
+  git push origin main

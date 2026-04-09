@@ -1,0 +1,41 @@
+﻿# ============================================================================
+# GitHub Action: Auto-genera i manifest JSON ogni volta che vengono pushate
+# nuove immagini nelle cartelle docs/studentXXX/.
+#
+# I tecnici devono solo trascinare le immagini su GitHub (web UI) e fare
+# commit — questa Action si occupa di rigenerare i manifest automaticamente.
+# ============================================================================
+name: Generate Slide Manifests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/student*/**'   # Trigger solo quando cambiano file nelle cartelle studente
+
+jobs:
+  update-manifests:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # necessario per push automatico
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate manifests
+        run: python genera_manifest.py
+
+      - name: Commit & push manifests
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Auto-update manifests"
+          file_pattern: "docs/manifest_*.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+

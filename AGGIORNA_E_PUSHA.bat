@@ -4,6 +4,11 @@ echo ============================================
 echo  AGGIORNA MANIFEST E PUSHA SU GITHUB
 echo ============================================
 echo.
+echo  NOTA: Se carichi le immagini direttamente
+echo  dal sito GitHub (drag and drop), i manifest
+echo  si aggiornano DA SOLI grazie alla GitHub Action.
+echo  Questo script serve solo se lavori in locale.
+echo.
 
 REM Genera automaticamente tutti i manifest dalla cartella docs/
 echo [1/3] Genero manifest...

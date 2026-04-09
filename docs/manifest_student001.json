@@ -1,25 +1,85 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "slides": [
     {
-      "name": "slide_01",
-      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide_01.png"
+      "name": "slide-01",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-01.png"
     },
     {
-      "name": "slide_02",
-      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide_02.png"
+      "name": "slide-02",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-02.png"
     },
     {
-      "name": "slide_03",
-      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide_03.png"
+      "name": "slide-03",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-03.png"
     },
     {
-      "name": "slide_04",
-      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide_04.png"
+      "name": "slide-04",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-04.png"
     },
     {
-      "name": "slide_05",
-      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide_05.png"
+      "name": "slide-05",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-05.png"
+    },
+    {
+      "name": "slide-06",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-06.png"
+    },
+    {
+      "name": "slide-07",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-07.png"
+    },
+    {
+      "name": "slide-08",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-08.png"
+    },
+    {
+      "name": "slide-09",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-09.png"
+    },
+    {
+      "name": "slide-10",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-10.png"
+    },
+    {
+      "name": "slide-11",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-11.png"
+    },
+    {
+      "name": "slide-12",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-12.png"
+    },
+    {
+      "name": "slide-13",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-13.png"
+    },
+    {
+      "name": "slide-14",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-14.png"
+    },
+    {
+      "name": "slide-15",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-15.png"
+    },
+    {
+      "name": "slide-16",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-16.png"
+    },
+    {
+      "name": "slide-17",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-17.png"
+    },
+    {
+      "name": "slide-18",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-18.png"
+    },
+    {
+      "name": "slide-19",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-19.png"
+    },
+    {
+      "name": "slide-20",
+      "url": "https://ko-haku.github.io/LabEconomia_Slides/student001/slide-20.png"
     }
   ]
 }
